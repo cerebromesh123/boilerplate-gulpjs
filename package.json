@@ -37,7 +37,7 @@
 		"gulp-concat": "^2.6.1",
 		"gulp-rename": "^1.4.0",
 		"gulp-request": "0.0.1",
-		"merge": "^1.2.1",
+		"merge": "^2.1.1",
 		"request": "^2.88.0",
 		"vinyl-buffer": "^1.0.1",
 		"vinyl-source-stream": "^2.0.0"
