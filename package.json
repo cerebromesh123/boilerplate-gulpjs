@@ -15,7 +15,7 @@
 		"gulp-sourcemaps": "^2.6.5",
 		"gulp-uglify": "^3.0.2",
 		"gulp-useref": "^4.0.0",
-		"node-sass": "^4.13.0",
+		"node-sass": "^7.0.0",
 		"node-sass-tilde-importer": "^1.0.2",
 		"watchify": "^3.11.1"
 	},
